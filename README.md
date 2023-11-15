@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ritishree Gochhayat</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align-"right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align-"right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 - 📫 How to reach me *ritishree1996@gmail.com*
 
