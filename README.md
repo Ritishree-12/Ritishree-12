@@ -5,7 +5,7 @@
 <img align-"right" 
 alt="coding" 
 width="400" 
-style={{alignItem:'center'}}
+alignItem="center"
 src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" >
 
 - 📫 How to reach me *ritishree1996@gmail.com*
